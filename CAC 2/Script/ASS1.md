@@ -58,6 +58,7 @@ Most clients in the dataset are between 30 and 40 years old, with a visible peak
 Clients who did not subscribe (blue line) dominate across all age ranges, but those who did subscribe (orange line) show a slightly higher relative frequency among older clients, particularly between 40 and 60 years old.
 
 This trend may indicate that middle-aged clients are more likely to subscribe to a term deposit, possibly because they are in a more stable financial situation and more interested in secure investment products compared to younger clients.
+
 <img src="télécharger (2).png" style="height:464px;margin-right:432px"/>
 This chart presents the distribution of the variable pdays, which represents the number of days since a client was last contacted from a previous campaign (excluding those who were never contacted, indicated by -1).
 
@@ -65,6 +66,7 @@ We can see that for clients who did not subscribe (blue line), pdays are more wi
 For those who did subscribe (orange line), the frequency is generally lower but more concentrated toward smaller pdays values, indicating that clients who were contacted more recently in previous campaigns were more likely to subscribe.
 
 This suggests that recency of contact plays an important role in the success of marketing efforts — the more recently a client was reached, the higher the chance of subscription.
+
 <img src="télécharger (3).png" style="height:464px;margin-right:432px"/>
 This chart shows the proportion of clients who subscribed to a term deposit, grouped by marital status (divorced, married, single).
 We can observe that in all three categories, the majority of clients did not subscribe (blue part), while only a small fraction did subscribe (orange part).
