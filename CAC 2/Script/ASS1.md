@@ -1,4 +1,6 @@
-<img src="yasmine_kerdoud.ipynb" style="height:464px;margin-right:432px"/>
+<img src="yasmine_kerdoud.ipynb" style="height:42264111px;margin-right:42211132px"/>
+
+
 YASMINE KERDOUD 
 CAC 2
 22005999
