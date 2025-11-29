@@ -1,3 +1,13 @@
+# KERDOUD YASMINE
+
+<img src="yasmine kerdoud CAC2.jpg" style="height:464px;margin-right:432px"/>
+
+# CAC2
+
+# 22005999
+
+
+# Compte rendu
 
 # Analyse Statistique des Facteurs de Stress chez les Étudiants Universitaires
 
