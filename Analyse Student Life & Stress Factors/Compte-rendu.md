@@ -1,6 +1,6 @@
 # KERDOUD YASMINE
 
-<img src="yasmine kerdoud CAC2.jpg" style="height:464px;margin-right:432px"/>
+<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/Analyse%20Student%20Life%20%26%20Stress%20Factors/Yasmine%20kerdoud%20CAC2.jpg" style="height:464px;margin-right:432px"/>
 
 # CAC2
 
