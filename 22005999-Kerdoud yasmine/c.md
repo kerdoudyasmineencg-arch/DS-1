@@ -101,7 +101,7 @@ Voici les **trois visualisations les plus importantes**, choisies pour leur impa
 ---
 
 ### **Graphique 1 — Satisfaction with Remote Work vs Years of Experience (Boxplot)**
-<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/Analyse%20Student%20Life%20%26%20Stress%20Factors/Yasmine%20kerdoud%20CAC2.jpg" style="height:464px;margin-right:432px"/>
+<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/22005999-Kerdoud%20yasmine/Graphique%201.png" style="height:464px;margin-right:432px"/>
 
 #### Interprétation
 Ce graphique montre comment la satisfaction varie selon l’expérience professionnelle.
@@ -122,7 +122,7 @@ Ce graphique montre comment la satisfaction varie selon l’expérience professi
 ---
 
 ### **Graphique 2 — Work Location vs Productivity Change**
-<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/Analyse%20Student%20Life%20%26%20Stress%20Factors/Yasmine%20kerdoud%20CAC2.jpg" style="height:464px;margin-right:432px"/>
+<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/22005999-Kerdoud%20yasmine/Graphique%202.png" style="height:464px;margin-right:432px"/>
 
 #### Interprétation
 Ce graphique présente la relation entre le lieu de travail et l’évolution de la productivité.
@@ -145,7 +145,7 @@ Ce graphique présente la relation entre le lieu de travail et l’évolution de
 ---
 
 ### **Graphique 3 — Heatmap des Corrélations**
-<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/Analyse%20Student%20Life%20%26%20Stress%20Factors/Yasmine%20kerdoud%20CAC2.jpg" style="height:464px;margin-right:432px"/>
+<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/22005999-Kerdoud%20yasmine/Graphique%203.png"/>
 
 #### Interprétation
 Cette visualisation montre les relations entre variables numériques (âge, isolation, satisfaction…).
