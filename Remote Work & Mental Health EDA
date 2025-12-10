@@ -3,7 +3,10 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "mount_file_id": "1WOpaeVtBWguoGY7_mDH78PIRLA7Y82iQ",
+      "authorship_tag": "ABX9TyPgvglXhP+dB9Zi7KC0ZcNh",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -15,8 +18,18 @@
   },
   "cells": [
     {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/kerdoudyasmineencg-arch/DS-1/blob/main/Remote%20Work%20%26%20Mental%20Health%20EDA\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "id": "cPz6lw35Y39l"
       },
@@ -50,7 +63,7 @@
         "id": "M2u9EuGrZZDz",
         "outputId": "8cddf0ca-7cca-49cd-9933-6976a11be036"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -651,7 +664,7 @@
         "id": "PEduCYrSZ2n1",
         "outputId": "0a356c66-5fd5-4263-a751-6c4b89bdd740"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -703,7 +716,7 @@
         "id": "TQR5qRnbZ9di",
         "outputId": "0650dda2-de65-4b4a-a8e7-972b19836319"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -768,7 +781,7 @@
         "id": "uo6Y7F4aaAJQ",
         "outputId": "8ec5b069-9746-4e67-8f0c-e0d98b508962"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1157,7 +1170,7 @@
         "id": "AU0FsNchaDFH",
         "outputId": "68c16427-9cdb-4f92-bd2e-aca591105efc"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1189,7 +1202,7 @@
         "id": "T9JOlB-XaGY8",
         "outputId": "1f1e8ee6-4422-4820-8ce6-ff9280b06b43"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1222,7 +1235,7 @@
         "id": "ZPG7BSaQaJPA",
         "outputId": "8f376df2-4902-4b51-db70-cf8c7eb6867e"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1255,7 +1268,7 @@
         "id": "M_l_YcU6aL9s",
         "outputId": "55d20f9b-c382-4e4a-ec35-ea3d784e5985"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1288,7 +1301,7 @@
         "id": "ij5Gd3dAaOsV",
         "outputId": "19aaee89-735e-4c36-8b14-c8803e295083"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1322,7 +1335,7 @@
         "id": "n4brZ3h9aajZ",
         "outputId": "43972847-0593-4ec2-a668-00ad902b6db0"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1355,7 +1368,7 @@
         "id": "iHVrwM6Dacks",
         "outputId": "f7005deb-392b-4918-8c87-e3ac360ab8b7"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1388,7 +1401,7 @@
         "id": "hWjrspIdahcq",
         "outputId": "6339fff0-6f10-42c0-ed50-c2b6c3d49e17"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1420,7 +1433,7 @@
         "id": "nSQBH6C4akFu",
         "outputId": "f70a69b0-cf5b-456b-ecfa-3a333867d1af"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1453,7 +1466,7 @@
         "id": "GSRQSx9camzm",
         "outputId": "b1b8d33b-4ba5-4c3b-8676-c0de1b06128c"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1487,7 +1500,7 @@
         "id": "7unIJuxXapdV",
         "outputId": "dd0ae908-db6a-4a9d-e29a-220b739629ed"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1521,7 +1534,7 @@
         "id": "taPsU6o6ar9b",
         "outputId": "7cf1d872-31ea-4cce-b699-059c65e9d292"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1570,7 +1583,7 @@
         "id": "jHNYd6rfa52J",
         "outputId": "5f9c05bc-9bf0-4e44-a97f-1cf786a0dac0"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1618,7 +1631,7 @@
         "id": "HteDpRAPbkiO",
         "outputId": "9acab592-0b33-40e9-d869-75efbc79e278"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
