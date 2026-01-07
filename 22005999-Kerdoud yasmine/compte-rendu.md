@@ -6,7 +6,20 @@
 
 # 22005999
 
-# RCompte-rendu : Impact du Télétravail sur la Santé Mentale et la Satisfaction des Employés
+# Compte-rendu : Impact du Télétravail sur la Santé Mentale et la Satisfaction des Employés
+
+---
+
+---
+
+## Sommaire
+
+1. [Contexte Métier et Mission](#1-contexte-métier-et-mission)  
+2. [Le Code Python (Laboratoire)](#2-le-code-python-laboratoire)  
+3. [Analyse Approfondie des Données](#3-analyse-approfondie-des-données)  
+4. [Interprétation des Graphiques Clés](#4-interprétation-des-graphiques-clés)  
+5. [Synthèse Globale et Recommandations](#5-synthèse-globale-et-recommandations)  
+6. [Conclusion](#6-conclusion)
 
 ---
 
